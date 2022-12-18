@@ -1,0 +1,12 @@
+C:\Users\cavid\Desktop\C# codes\AccessModify\ServiceLayer2\bin\Debug\net6.0\ServiceLayer2.deps.json
+C:\Users\cavid\Desktop\C# codes\AccessModify\ServiceLayer2\bin\Debug\net6.0\ServiceLayer2.dll
+C:\Users\cavid\Desktop\C# codes\AccessModify\ServiceLayer2\bin\Debug\net6.0\ServiceLayer2.pdb
+C:\Users\cavid\Desktop\C# codes\AccessModify\ServiceLayer2\obj\Debug\net6.0\ServiceLayer2.csproj.AssemblyReference.cache
+C:\Users\cavid\Desktop\C# codes\AccessModify\ServiceLayer2\obj\Debug\net6.0\ServiceLayer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavid\Desktop\C# codes\AccessModify\ServiceLayer2\obj\Debug\net6.0\ServiceLayer2.AssemblyInfoInputs.cache
+C:\Users\cavid\Desktop\C# codes\AccessModify\ServiceLayer2\obj\Debug\net6.0\ServiceLayer2.AssemblyInfo.cs
+C:\Users\cavid\Desktop\C# codes\AccessModify\ServiceLayer2\obj\Debug\net6.0\ServiceLayer2.csproj.CoreCompileInputs.cache
+C:\Users\cavid\Desktop\C# codes\AccessModify\ServiceLayer2\obj\Debug\net6.0\ServiceLayer2.dll
+C:\Users\cavid\Desktop\C# codes\AccessModify\ServiceLayer2\obj\Debug\net6.0\refint\ServiceLayer2.dll
+C:\Users\cavid\Desktop\C# codes\AccessModify\ServiceLayer2\obj\Debug\net6.0\ServiceLayer2.pdb
+C:\Users\cavid\Desktop\C# codes\AccessModify\ServiceLayer2\obj\Debug\net6.0\ref\ServiceLayer2.dll

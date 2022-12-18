@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ServiceLayer2/1.0.0": {
+        "runtime": {
+          "ServiceLayer2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServiceLayer2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

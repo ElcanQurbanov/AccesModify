@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AccessModify/1.0.0": {
+        "dependencies": {
+          "ServiceLayer": "1.0.0",
+          "ServiceLayer2": "1.0.0"
+        },
+        "runtime": {
+          "AccessModify.dll": {}
+        }
+      },
+      "ServiceLayer/1.0.0": {
+        "runtime": {
+          "ServiceLayer.dll": {}
+        }
+      },
+      "ServiceLayer2/1.0.0": {
+        "runtime": {
+          "ServiceLayer2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccessModify/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceLayer2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
